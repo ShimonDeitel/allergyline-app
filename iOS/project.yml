@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: AllergylineTests
-      - path: Allergyline.storekit
     dependencies:
       - target: Allergyline
     settings:
